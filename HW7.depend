@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1382039909 source:/home/ryan/Documents/CS53 Fall/HW7/HW7/main.cpp
+	<iostream>
+	"functions.h"
+
+1382041307 /home/ryan/Documents/CS53 Fall/HW7/HW7/functions.h
+	<iostream>
+	<cmath>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1382041155 source:/home/ryan/Documents/CS53 Fall/HW7/HW7/functions.cpp
+	"functions.h"
+
